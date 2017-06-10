@@ -1,0 +1,31 @@
+{
+  "name": "navbar",
+  "version": "0.0.1",
+  "description": "Navigation bar as Angular 2 component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular2",
+    "ts",
+    "component"
+  ],
+  "author": {
+    "name": "Eugene Karanda",
+    "email": "eugene.karanda@gmail.com",
+    "url": "https://github.com/eugene-karanda"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.3.4"
+  },
+  "dependencies": {
+    "@angular/core": "^4.0.0",
+    "@angular/common": "^4.0.0",
+    "@angular/router": "^4.0.0",
+    "@angular/platform-browser": "^4.0.0",
+    "rxjs": "^5.4.0",
+    "zone.js": "^0.8.12"
+  }
+}
