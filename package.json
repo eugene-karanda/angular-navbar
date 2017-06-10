@@ -1,5 +1,5 @@
 {
-  "name": "navbar",
+  "name": "angular-navbar",
   "version": "0.0.1",
   "description": "Navigation bar as Angular 2 component",
   "main": "index.js",
@@ -15,6 +15,10 @@
     "name": "Eugene Karanda",
     "email": "eugene.karanda@gmail.com",
     "url": "https://github.com/eugene-karanda"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugene-karanda/angular-navbar.git"
   },
   "license": "MIT",
   "devDependencies": {
