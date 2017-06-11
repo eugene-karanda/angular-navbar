@@ -1,0 +1,1 @@
+exports.MyComponent = require('./bundle/my.component').MyComponent;
