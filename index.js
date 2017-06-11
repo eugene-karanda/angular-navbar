@@ -1,1 +1,1 @@
-exports.MyComponent = require('./bundle/my.component').MyComponent;
+exports.NavbarItem = require('./bundle/navbar-item.model').NavbarItem;
