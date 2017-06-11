@@ -1,8 +1,8 @@
 {
   "name": "angular-navbar",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Navigation bar as Angular 2 component",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "build": "tsc",
     "prepublish": "npm run build",
@@ -32,6 +32,10 @@
     "typescript": "^2.3.4",
     "zone.js": "^0.8.12"
   },
-  "dependencies": {
-  }
+  "files": [
+    "index.js",
+    "bundle",
+    "package.json",
+    "README.md"
+  ]
 }
